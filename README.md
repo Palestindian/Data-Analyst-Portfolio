@@ -31,11 +31,13 @@
 <img src="preview/fa_icon.jpg">
 
 - <a href="GameDev анализ воронки.ipynb"><i>"GameDev: анализ воронки"</i></a> 
+
     Проектная работа. Исследование поведения пользователей в мобильной игре (<strong>Jupiter Notebook</strong>, Python, Pandas).
 
 <img src="preview/gdfa_icon.jpg">
 
 - <a href="EdTech рекомендательная система.ipynb"><i>"EdTech: рекомендательная система кросс-продаж"</i></a> 
+
     Проектная работа. Разработка рекомендательной системы для клиентов учебной платформы с целью увеличения среднего чека (<strong>Jupiter Notebook</strong>, SQL, Python, Pandas).
     
 <img src="preview/edrs_icon.jpg">
