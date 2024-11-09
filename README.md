@@ -1,5 +1,4 @@
-Portfolio
-=
+
 Портфолио моих учебных работ, выполненных на курсе "Аналитик данных"
 
  - <a href="https://docs.google.com/spreadsheets/d/1Jp-ZbCn7x0XfeTK719f4IlE49PCwJcGE926y4H2fmjo/edit?usp=sharing"><i>"Анализ бизнес-модели"</i></a>
