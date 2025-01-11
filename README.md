@@ -42,3 +42,11 @@
     
 <img src="preview/edrs_icon.jpg">
 
+
+<h3>Иные проекты:</h3>
+
+- <a href="https://colab.research.google.com/drive/10Drhmvx7hFrzA0Ftqr4-U3nNw0cZSCoM?usp=sharing"><i>"Сбор отфильтрованных вакансий посредством API HH.ru"</i></a> 
+
+    Личный pet-проект. Увеличение скорости нахождения вакансий, формирование отчета в сжатой табличной форме без визуального шума (<strong>Jupiter Notebook</strong>, Python, Pandas).
+    
+<img src="preview/opet1_icon.jpg">
