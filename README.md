@@ -45,7 +45,7 @@
 
 <h3>Иные проекты:</h3>
 
-- <a href="https://colab.research.google.com/drive/1tvY4CLcFijGbtDmqm8_yXyV70h-8vFCR?usp=sharing"><i>"Сбор отфильтрованных вакансий посредством API HH.ru"</i></a> 
+- <a href="https://colab.research.google.com/drive/1tvY4CLcFijGbtDmqm8_yXyV70h-8vFCR"><i>"Сбор отфильтрованных вакансий посредством API HH.ru"</i></a> 
 
     Личный pet-проект. Увеличение скорости нахождения вакансий, формирование отчета в сжатой табличной форме без визуального шума (<strong>Jupiter Notebook</strong>, Python, Pandas).
     
